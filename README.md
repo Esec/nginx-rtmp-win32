@@ -11,7 +11,8 @@ libcrypt-4.4.4、pcre-8.44和zlib-1.2.11使用包管理器安装
 使用了更偷懒的配方，够用即可
 
 # 使用方法
-从网盘下载[3c9h](https://wwa.lanzous.com/iwXczkcxf3i)  
+从网盘下载https://wwvz.lanzoue.com/iwXczkcxf3i
+密码:3c9h
 双击nginx.exe或双击foreground.bat前台运行
 
 # 简要说明
